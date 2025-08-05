@@ -1,2 +1,1 @@
-# EDCONNECTOR
-Online Educational Platform
+# EdConnectr
